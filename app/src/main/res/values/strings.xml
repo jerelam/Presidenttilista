@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Presidenttilista</string>
+    <string name="title_activity_item_details">Presidentin tiedot</string>
+    <string name="editPresident">Muokkaa</string>
+    <string name="cancelEdit">Kumoa</string>
+    <string name="removePresident">Poista</string>
+    <string name="saveEdit">Tallenna</string>
+    <string name="startYearHeader">virkaanastuminen</string>
+    <string name="endYearHeader">potkut</string>
+    <string name="sloganHeader">tunnuslause</string>
+    <string name="nameHeader">nimi</string>
+    <string name="descriptionHeader">lisätietoa</string>
+    <string name="dash">-</string>
+    <string name="moveUp">Siirrä ylemmäs</string>
+    <string name="moveDown">Siirrä alemmas</string>
+    <string name="addPresident">Lisää uusi presidentti</string>
+    <string name="nameHint">Syötä nimi</string>
+    <string name="yearHint">Syötä vuosi</string>
+    <string name="descriptionHint">Syötä esimerkiksi tunnettu lausahdus, lempinimi tai muu kiinnostava tieto</string>
+</resources>
